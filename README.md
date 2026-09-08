@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1140-stone-game-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
