@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0835-image-overlap](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
