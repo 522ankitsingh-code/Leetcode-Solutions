@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
