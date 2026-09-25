@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [1096-brace-expansion-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [1096-brace-expansion-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -274,4 +277,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
