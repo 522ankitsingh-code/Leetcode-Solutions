@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/522ankitsingh-code/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
